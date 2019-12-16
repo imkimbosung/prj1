@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-fdsasdf1
-    fdsfsd;lfaksdfjdl;sk SOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo 
+	test
 </body>
 </html>
